@@ -12,7 +12,7 @@ license = "MIT"
 rusttype = "0.2"
 
 [dependencies.glium]
-version = "0.18"
+version = "0.19"
 default-features = false
 
 [dev-dependencies]
